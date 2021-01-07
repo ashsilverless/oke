@@ -1,0 +1,5119 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "C36B0DD8-7950-457F-BF17-B1F8BF7B9C21"
+		}
+	],
+"creatorBuild": "32186",
+"files": {
+	"/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/404.php",
+		"oF": 0
+		},
+	"/admin-settings/admin.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/admin-settings/admin-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/admin-settings/dashboard.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/admin-settings/dashboard.html",
+		"oF": 0
+		},
+	"/admin-settings/style-admin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/admin-settings/style-admin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/admin-settings/style-admin.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/admin-settings/style-admin.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/archive.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/archive.php",
+		"oF": 0
+		},
+	"/custom-post-types.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/custom-post-types.php",
+		"oF": 0
+		},
+	"/custom-taxonomies.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/custom-taxonomies.php",
+		"oF": 0
+		},
+	"/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/favicon.ico",
+		"oF": 0
+		},
+	"/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/footer.php",
+		"oF": 0
+		},
+	"/footercontact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/footercontact.php",
+		"oF": 0
+		},
+	"/footerMK2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/footerMK2.php",
+		"oF": 0
+		},
+	"/functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/functions.php",
+		"oF": 0
+		},
+	"/header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/header.php",
+		"oF": 0
+		},
+	"/inc/img/contours.png": {
+		"ft": 32768,
+		"iS": 91731,
+		"oA": 0,
+		"oAP": "/inc/img/contours.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/inc/img/droplet.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/droplet.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/img/master-mapv1.jpg": {
+		"ft": 16384,
+		"iS": 100483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/inc/img/master-mapv1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/inc/img/new/master-mapv1.jpg": {
+		"ft": 16384,
+		"iS": 150616,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/inc/img/new/master-mapv1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/inc/img/ode-logo-bottom.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/inc/img/ode-logo-bottom.php",
+		"oF": 0
+		},
+	"/inc/img/ode-logo-full.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/inc/img/ode-logo-full.php",
+		"oF": 0
+		},
+	"/inc/img/ode-logo-top.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/inc/img/ode-logo-top.php",
+		"oF": 0
+		},
+	"/inc/img/old/master-mapv1.jpg": {
+		"ft": 16384,
+		"iS": 100483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/inc/img/old/master-mapv1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/inc/img/silverless-logo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/inc/img/silverless-logo.php",
+		"oF": 0
+		},
+	"/inc/img/slider-arrow-green.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/slider-arrow-green.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/img/slider-arrow-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/slider-arrow-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/img/slider-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/slider-arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/img/small-map.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/inc/img/small-map.php",
+		"oF": 0
+		},
+	"/inc/img/test-map.png": {
+		"ft": 32768,
+		"iS": 966424,
+		"oA": 0,
+		"oAP": "/inc/img/test-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/inc/img/waterhigh.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/waterhigh.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/img/waterlow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/waterlow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/img/wateroff.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/inc/img/wateroff.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/inc/js/compiled.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/inc/js/compiled-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/js/core.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/inc/js/compiled.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/js/jquery.magnific-popup.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/inc/js/jquery.magnific-popup-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/js/mapbox-gl-geocoder.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/inc/js/mapbox-gl-geocoder.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/js/mapbox-gl.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/inc/js/mapbox-gl-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/js/mixitup.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/inc/js/mixitup-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/js/owl.carousel.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/inc/js/owl.carousel.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/inc/scss/_component.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_component.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_global.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_global.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_media-queries.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_media-queries.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_modifiers.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_modifiers.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_module.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_module.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_theme.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_theme.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/scss/_vendor.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/inc/scss/_vendor.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/inc/test-haml.haml": {
+		"cB": 0,
+		"cDA": 0,
+		"eHT": 0,
+		"ft": 256,
+		"hM": 0,
+		"nEA": 0,
+		"oA": 0,
+		"oAP": "/inc/test-haml.html",
+		"oF": 0,
+		"oFM": 2,
+		"uDQ": 0,
+		"uUN": 0
+		},
+	"/inc/test-haml.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/inc/test-haml.html",
+		"oF": 0
+		},
+	"/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/index.php",
+		"oF": 0
+		},
+	"/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/main.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/mapped-style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/mapped-style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/old.git/COMMIT_EDITMSG": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/COMMIT_EDITMSG",
+		"oF": 0
+		},
+	"/old.git/config": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/config",
+		"oF": 0
+		},
+	"/old.git/FETCH_HEAD": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/FETCH_HEAD",
+		"oF": 0
+		},
+	"/old.git/HEAD": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/HEAD",
+		"oF": 0
+		},
+	"/old.git/index": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/index",
+		"oF": 0
+		},
+	"/old.git/logs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/old.git/logs",
+		"oF": 0
+		},
+	"/old.git/objects/05/9f601d099822d23c95fb510ff96b90e7a20e49": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/05/9f601d099822d23c95fb510ff96b90e7a20e49",
+		"oF": 0
+		},
+	"/old.git/objects/06/3a46bd37aceb2411baee34fd72efcd53dcb2f3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/06/3a46bd37aceb2411baee34fd72efcd53dcb2f3",
+		"oF": 0
+		},
+	"/old.git/objects/09/af5406133042adabc860e9773076b373cb19bf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/09/af5406133042adabc860e9773076b373cb19bf",
+		"oF": 0
+		},
+	"/old.git/objects/0a/fa4e76768efbcd1a3c337bddb0f132ae2d7e6a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/0a/fa4e76768efbcd1a3c337bddb0f132ae2d7e6a",
+		"oF": 0
+		},
+	"/old.git/objects/0d/ef7acb2946b54bfe9a15fe8bab45a895db1fa0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/0d/ef7acb2946b54bfe9a15fe8bab45a895db1fa0",
+		"oF": 0
+		},
+	"/old.git/objects/10/72842fd06e754ad75df3765dbdad5db30f423e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/10/72842fd06e754ad75df3765dbdad5db30f423e",
+		"oF": 0
+		},
+	"/old.git/objects/11/239f018716abeb0f29b236e858d2152dbeff7d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/11/239f018716abeb0f29b236e858d2152dbeff7d",
+		"oF": 0
+		},
+	"/old.git/objects/12/014dd9d74df32d74e4ae231312b32816ff96b9": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/12/014dd9d74df32d74e4ae231312b32816ff96b9",
+		"oF": 0
+		},
+	"/old.git/objects/13/9028b0016544328b1d0f9c4cefc5513ae4602b": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/13/9028b0016544328b1d0f9c4cefc5513ae4602b",
+		"oF": 0
+		},
+	"/old.git/objects/14/3efe12efe5939cee9c8e7009f55677b6ee7c78": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/14/3efe12efe5939cee9c8e7009f55677b6ee7c78",
+		"oF": 0
+		},
+	"/old.git/objects/14/e6fac3e3103fe0897c224fa173ae170d1f243e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/14/e6fac3e3103fe0897c224fa173ae170d1f243e",
+		"oF": 0
+		},
+	"/old.git/objects/15/ad6b736a6b828f0f73266483470369035c6ca1": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/15/ad6b736a6b828f0f73266483470369035c6ca1",
+		"oF": 0
+		},
+	"/old.git/objects/16/3bedbc4e7b2b7bb8700245e3ff637ea17dbfb5": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/16/3bedbc4e7b2b7bb8700245e3ff637ea17dbfb5",
+		"oF": 0
+		},
+	"/old.git/objects/19/02949f02854f916f849eac00740c2a0c66c1de": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/19/02949f02854f916f849eac00740c2a0c66c1de",
+		"oF": 0
+		},
+	"/old.git/objects/1a/634477bc167517461db8a471f8c0cb6860498c": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/1a/634477bc167517461db8a471f8c0cb6860498c",
+		"oF": 0
+		},
+	"/old.git/objects/1a/d032b1336a809721bb1702618b9339ac30c98d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/1a/d032b1336a809721bb1702618b9339ac30c98d",
+		"oF": 0
+		},
+	"/old.git/objects/1c/d90175e488ef8e2f72db0f969105e71eca901f": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/1c/d90175e488ef8e2f72db0f969105e71eca901f",
+		"oF": 0
+		},
+	"/old.git/objects/1d/aa6325a408c4b23a9b550d856bf86931345228": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/1d/aa6325a408c4b23a9b550d856bf86931345228",
+		"oF": 0
+		},
+	"/old.git/objects/1f/7651ba51114cb5f83a08a20600f7aeaf0982fd": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/1f/7651ba51114cb5f83a08a20600f7aeaf0982fd",
+		"oF": 0
+		},
+	"/old.git/objects/1f/bb86ebe12367ebc093e18f106870ab523d0395": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/1f/bb86ebe12367ebc093e18f106870ab523d0395",
+		"oF": 0
+		},
+	"/old.git/objects/21/1efa6f63f2583186ee153a9185ec54aae07306": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/21/1efa6f63f2583186ee153a9185ec54aae07306",
+		"oF": 0
+		},
+	"/old.git/objects/21/b9c79edfde65b6fb9f47cfb0cc8dd64ac53ea9": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/21/b9c79edfde65b6fb9f47cfb0cc8dd64ac53ea9",
+		"oF": 0
+		},
+	"/old.git/objects/23/f0b2a4cac073775cfbcc5c217b9ef69155d51d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/23/f0b2a4cac073775cfbcc5c217b9ef69155d51d",
+		"oF": 0
+		},
+	"/old.git/objects/24/43515abacf1a93f7c0edf64603f425a353f665": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/24/43515abacf1a93f7c0edf64603f425a353f665",
+		"oF": 0
+		},
+	"/old.git/objects/25/9fd4d0f777b71c713412c989d58facb895641a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/25/9fd4d0f777b71c713412c989d58facb895641a",
+		"oF": 0
+		},
+	"/old.git/objects/26/20cc3f25d450c4c2be43964865ff94fbb2bfb5": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/26/20cc3f25d450c4c2be43964865ff94fbb2bfb5",
+		"oF": 0
+		},
+	"/old.git/objects/27/601f9749af00b95bc23fba887c4245f9bb42e4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/27/601f9749af00b95bc23fba887c4245f9bb42e4",
+		"oF": 0
+		},
+	"/old.git/objects/28/1a9873278cffd9672d4f44605b84b575099ffe": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/28/1a9873278cffd9672d4f44605b84b575099ffe",
+		"oF": 0
+		},
+	"/old.git/objects/29/31bc2bfedad69a30f2c1d328f606e29f15b9f2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/29/31bc2bfedad69a30f2c1d328f606e29f15b9f2",
+		"oF": 0
+		},
+	"/old.git/objects/29/9da730c79ef5fbfb068bd20a07a74f7cdec904": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/29/9da730c79ef5fbfb068bd20a07a74f7cdec904",
+		"oF": 0
+		},
+	"/old.git/objects/2a/ad0e15fafaabab46b615aa0b36daeadb155579": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/2a/ad0e15fafaabab46b615aa0b36daeadb155579",
+		"oF": 0
+		},
+	"/old.git/objects/2b/62f2127a6edbbc0ebe63379f652ec3a0383704": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/2b/62f2127a6edbbc0ebe63379f652ec3a0383704",
+		"oF": 0
+		},
+	"/old.git/objects/2f/300e56c1e0d3d3ff3740c8f511abeb02e34a91": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/2f/300e56c1e0d3d3ff3740c8f511abeb02e34a91",
+		"oF": 0
+		},
+	"/old.git/objects/31/41bec0e92cb50ab38ee6ad95abc011969c60be": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/31/41bec0e92cb50ab38ee6ad95abc011969c60be",
+		"oF": 0
+		},
+	"/old.git/objects/31/75d47b9ed386965b8cb84f096b190ea0e107f0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/31/75d47b9ed386965b8cb84f096b190ea0e107f0",
+		"oF": 0
+		},
+	"/old.git/objects/31/a8aff92cc050e46f3d0a2335c761b87e945de7": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/31/a8aff92cc050e46f3d0a2335c761b87e945de7",
+		"oF": 0
+		},
+	"/old.git/objects/31/cb0bfb9a856f5b4b978ce6a8f0ad4aa7000d36": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/31/cb0bfb9a856f5b4b978ce6a8f0ad4aa7000d36",
+		"oF": 0
+		},
+	"/old.git/objects/31/d2ddecab28208764f5caddceb4c3cbcfce3023": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/31/d2ddecab28208764f5caddceb4c3cbcfce3023",
+		"oF": 0
+		},
+	"/old.git/objects/31/e0c6df2ec2029fe5cb637f185f901105f14821": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/31/e0c6df2ec2029fe5cb637f185f901105f14821",
+		"oF": 0
+		},
+	"/old.git/objects/32/4538da331d048d0813c10ca79e1921a03bc149": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/32/4538da331d048d0813c10ca79e1921a03bc149",
+		"oF": 0
+		},
+	"/old.git/objects/32/a3bbd8a8bc9bc532b2e4811e0b2e380c77f93e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/32/a3bbd8a8bc9bc532b2e4811e0b2e380c77f93e",
+		"oF": 0
+		},
+	"/old.git/objects/33/f32daacb11342d51a8aae12ec99dd3aa2d3029": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/33/f32daacb11342d51a8aae12ec99dd3aa2d3029",
+		"oF": 0
+		},
+	"/old.git/objects/33/fba088bc2be84e06f1ebdcafb4d1c41ba4a5a0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/33/fba088bc2be84e06f1ebdcafb4d1c41ba4a5a0",
+		"oF": 0
+		},
+	"/old.git/objects/35/3adfb4aaf4e1cecbff2adb6e0fe2d463b898fb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/35/3adfb4aaf4e1cecbff2adb6e0fe2d463b898fb",
+		"oF": 0
+		},
+	"/old.git/objects/38/52ae8ba2e4b76f552c590b2de04b4348dd8327": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/38/52ae8ba2e4b76f552c590b2de04b4348dd8327",
+		"oF": 0
+		},
+	"/old.git/objects/38/64f2e47be2a1deb1e38b006ba349f271a399cc": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/38/64f2e47be2a1deb1e38b006ba349f271a399cc",
+		"oF": 0
+		},
+	"/old.git/objects/3b/3ae00b588ff41a75025b043645368ac0683393": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/3b/3ae00b588ff41a75025b043645368ac0683393",
+		"oF": 0
+		},
+	"/old.git/objects/3c/a95e46f0243b1b07b916736696cc257e22cc70": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/3c/a95e46f0243b1b07b916736696cc257e22cc70",
+		"oF": 0
+		},
+	"/old.git/objects/3f/264a7993d0a965534a68275f8feb87647ff990": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/3f/264a7993d0a965534a68275f8feb87647ff990",
+		"oF": 0
+		},
+	"/old.git/objects/3f/ead89513b1e8965afc89aaf7fc8701804126ce": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/3f/ead89513b1e8965afc89aaf7fc8701804126ce",
+		"oF": 0
+		},
+	"/old.git/objects/42/b70d4bbeaf0dc573b40d9163b855e8225a401e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/42/b70d4bbeaf0dc573b40d9163b855e8225a401e",
+		"oF": 0
+		},
+	"/old.git/objects/43/6d9b233b897f2a9b976d40e82beb1f530c737d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/43/6d9b233b897f2a9b976d40e82beb1f530c737d",
+		"oF": 0
+		},
+	"/old.git/objects/44/01adf2150648b5bbbec111cc820be5a864dcd8": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/44/01adf2150648b5bbbec111cc820be5a864dcd8",
+		"oF": 0
+		},
+	"/old.git/objects/45/34267523077ab6a34093ac8af3eeac5879eaea": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/45/34267523077ab6a34093ac8af3eeac5879eaea",
+		"oF": 0
+		},
+	"/old.git/objects/46/2ed231fe0eb73d5ecb871bfa61c6d9c0bd22fe": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/46/2ed231fe0eb73d5ecb871bfa61c6d9c0bd22fe",
+		"oF": 0
+		},
+	"/old.git/objects/46/e6d2669dd728050bd40966675872575bbd3b06": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/46/e6d2669dd728050bd40966675872575bbd3b06",
+		"oF": 0
+		},
+	"/old.git/objects/48/ac66f2dbffd6481f07ea9b82cebc6a829f2bfe": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/48/ac66f2dbffd6481f07ea9b82cebc6a829f2bfe",
+		"oF": 0
+		},
+	"/old.git/objects/49/36bc55e55551f5dc28b074156b0425c55bc0af": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/49/36bc55e55551f5dc28b074156b0425c55bc0af",
+		"oF": 0
+		},
+	"/old.git/objects/4b/825dc642cb6eb9a060e54bf8d69288fbee4904": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/4b/825dc642cb6eb9a060e54bf8d69288fbee4904",
+		"oF": 0
+		},
+	"/old.git/objects/4b/bb39d774c99cf229191c55e9b938020c9920c9": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/4b/bb39d774c99cf229191c55e9b938020c9920c9",
+		"oF": 0
+		},
+	"/old.git/objects/4d/fd6aeeaa70050eb7240c1059d1f1f99ec39471": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/4d/fd6aeeaa70050eb7240c1059d1f1f99ec39471",
+		"oF": 0
+		},
+	"/old.git/objects/4e/410ab22a41fa0313595a65732afc09992b4a45": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/4e/410ab22a41fa0313595a65732afc09992b4a45",
+		"oF": 0
+		},
+	"/old.git/objects/4f/2ac7d40e8c50186b5748d2066e7dcf5b1733b2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/4f/2ac7d40e8c50186b5748d2066e7dcf5b1733b2",
+		"oF": 0
+		},
+	"/old.git/objects/50/287f468b5a848bf8d6c7c48eca9c45cd505a66": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/50/287f468b5a848bf8d6c7c48eca9c45cd505a66",
+		"oF": 0
+		},
+	"/old.git/objects/55/c3e511eae95231962349634e4a97e604f6fb05": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/55/c3e511eae95231962349634e4a97e604f6fb05",
+		"oF": 0
+		},
+	"/old.git/objects/55/f51496852996b23e5670707f7f8a1b444b7b18": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/55/f51496852996b23e5670707f7f8a1b444b7b18",
+		"oF": 0
+		},
+	"/old.git/objects/55/f59eb331803c61719a431c44d9b2d0946c725c": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/55/f59eb331803c61719a431c44d9b2d0946c725c",
+		"oF": 0
+		},
+	"/old.git/objects/56/c54a7d36830dcffc3b4376d9d878e10813ca56": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/56/c54a7d36830dcffc3b4376d9d878e10813ca56",
+		"oF": 0
+		},
+	"/old.git/objects/57/8ce0255ab3d7e12586f6cec18cabddb06616bf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/57/8ce0255ab3d7e12586f6cec18cabddb06616bf",
+		"oF": 0
+		},
+	"/old.git/objects/58/0b71bb162e4fbacd241e48c5b15716246080c8": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/58/0b71bb162e4fbacd241e48c5b15716246080c8",
+		"oF": 0
+		},
+	"/old.git/objects/59/1ae2725568f8cc9c3d5735c47c5d13e00689d2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/59/1ae2725568f8cc9c3d5735c47c5d13e00689d2",
+		"oF": 0
+		},
+	"/old.git/objects/5b/4513690fd8b0092b5de6c7e79c3f15e095a89c": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/5b/4513690fd8b0092b5de6c7e79c3f15e095a89c",
+		"oF": 0
+		},
+	"/old.git/objects/5c/bc6ac245b625f0f6510e897fcfcd62c9a043bd": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/5c/bc6ac245b625f0f6510e897fcfcd62c9a043bd",
+		"oF": 0
+		},
+	"/old.git/objects/5d/c20ef754a452a5d2dd0f644929e13e3efaa970": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/5d/c20ef754a452a5d2dd0f644929e13e3efaa970",
+		"oF": 0
+		},
+	"/old.git/objects/60/c6ef316b0ea6308a436672203cefee977763a5": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/60/c6ef316b0ea6308a436672203cefee977763a5",
+		"oF": 0
+		},
+	"/old.git/objects/61/431904baea20531d72de4f20f503ce66c0b8eb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/61/431904baea20531d72de4f20f503ce66c0b8eb",
+		"oF": 0
+		},
+	"/old.git/objects/62/39f295b3c3756ae04ceccdfb218bd5f8b944cb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/62/39f295b3c3756ae04ceccdfb218bd5f8b944cb",
+		"oF": 0
+		},
+	"/old.git/objects/62/cae57bfab3090da365e089de47479af581b0a6": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/62/cae57bfab3090da365e089de47479af581b0a6",
+		"oF": 0
+		},
+	"/old.git/objects/65/537407677636ba3c7dec857cd432703b936ed7": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/65/537407677636ba3c7dec857cd432703b936ed7",
+		"oF": 0
+		},
+	"/old.git/objects/67/42403243ae3ddfa23d62b2ea8cd515281820db": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/67/42403243ae3ddfa23d62b2ea8cd515281820db",
+		"oF": 0
+		},
+	"/old.git/objects/6a/bd4d56cd55499634cf5802742df0b833485819": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/6a/bd4d56cd55499634cf5802742df0b833485819",
+		"oF": 0
+		},
+	"/old.git/objects/6e/ecd1c2d46ede8bbb38538bf6ff3f0e6c4bf08f": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/6e/ecd1c2d46ede8bbb38538bf6ff3f0e6c4bf08f",
+		"oF": 0
+		},
+	"/old.git/objects/6f/3faa9937961f87ea5cc8b109f906262effdd02": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/6f/3faa9937961f87ea5cc8b109f906262effdd02",
+		"oF": 0
+		},
+	"/old.git/objects/6f/52a09d2f32870a9460d372840b4cdf386f2ad2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/6f/52a09d2f32870a9460d372840b4cdf386f2ad2",
+		"oF": 0
+		},
+	"/old.git/objects/71/273186af80e1f23e21f397d1df247d42f27a44": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/71/273186af80e1f23e21f397d1df247d42f27a44",
+		"oF": 0
+		},
+	"/old.git/objects/73/815e31b4d34ae146108d313d4cc3e769182e20": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/73/815e31b4d34ae146108d313d4cc3e769182e20",
+		"oF": 0
+		},
+	"/old.git/objects/75/0859a6a7167affbdf4ddd447776a622b021315": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/75/0859a6a7167affbdf4ddd447776a622b021315",
+		"oF": 0
+		},
+	"/old.git/objects/76/c4450342784f60433c6ad3dacb5233b5919c37": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/76/c4450342784f60433c6ad3dacb5233b5919c37",
+		"oF": 0
+		},
+	"/old.git/objects/76/c7655726609f751da6615249f4b4922435d7ff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/76/c7655726609f751da6615249f4b4922435d7ff",
+		"oF": 0
+		},
+	"/old.git/objects/77/4ba3e2495222265d43f4f315d58e2da8b7dcce": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/77/4ba3e2495222265d43f4f315d58e2da8b7dcce",
+		"oF": 0
+		},
+	"/old.git/objects/79/796ffd61539402afe9ad0d55b71cfb09fec728": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/79/796ffd61539402afe9ad0d55b71cfb09fec728",
+		"oF": 0
+		},
+	"/old.git/objects/7c/1391fcabc761bbf7790beb30caa16f20475d5c": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/7c/1391fcabc761bbf7790beb30caa16f20475d5c",
+		"oF": 0
+		},
+	"/old.git/objects/7d/24a25e1e9f58829baa626fb4e246ada6968cc0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/7d/24a25e1e9f58829baa626fb4e246ada6968cc0",
+		"oF": 0
+		},
+	"/old.git/objects/7d/785de28998f783eb51548fb4cc1cdb3fb96ee7": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/7d/785de28998f783eb51548fb4cc1cdb3fb96ee7",
+		"oF": 0
+		},
+	"/old.git/objects/7d/9969942cf2e36347bf99d569f19d4f0ba85196": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/7d/9969942cf2e36347bf99d569f19d4f0ba85196",
+		"oF": 0
+		},
+	"/old.git/objects/7f/8fd218d41c14884f64678acf483b056393439a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/7f/8fd218d41c14884f64678acf483b056393439a",
+		"oF": 0
+		},
+	"/old.git/objects/81/622acde670b1139c7b58ab9a77567239e8186d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/81/622acde670b1139c7b58ab9a77567239e8186d",
+		"oF": 0
+		},
+	"/old.git/objects/81/c5834a017882b7dd1f419a60a2a340598face0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/81/c5834a017882b7dd1f419a60a2a340598face0",
+		"oF": 0
+		},
+	"/old.git/objects/83/0ea88be251c78558414edb87a22d3e7695768e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/83/0ea88be251c78558414edb87a22d3e7695768e",
+		"oF": 0
+		},
+	"/old.git/objects/83/747b985d61eb8dfb53ebc3a8ef932cab19fb4d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/83/747b985d61eb8dfb53ebc3a8ef932cab19fb4d",
+		"oF": 0
+		},
+	"/old.git/objects/83/9df4e906f49965f6019377c018e6a22638c257": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/83/9df4e906f49965f6019377c018e6a22638c257",
+		"oF": 0
+		},
+	"/old.git/objects/85/1418f41c84bdef085bc8ad7a4f280650b1b5fd": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/85/1418f41c84bdef085bc8ad7a4f280650b1b5fd",
+		"oF": 0
+		},
+	"/old.git/objects/85/33354611067087c827e4a2e6d84e580adca031": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/85/33354611067087c827e4a2e6d84e580adca031",
+		"oF": 0
+		},
+	"/old.git/objects/87/313b1af1c4be80f467cf7b2b689b5c43a7eac0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/87/313b1af1c4be80f467cf7b2b689b5c43a7eac0",
+		"oF": 0
+		},
+	"/old.git/objects/87/5f1ffca0d1c0198d94f6b766961b870b891ad2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/87/5f1ffca0d1c0198d94f6b766961b870b891ad2",
+		"oF": 0
+		},
+	"/old.git/objects/87/9511881c59f2456fa4602ca65c8b503660f9c0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/87/9511881c59f2456fa4602ca65c8b503660f9c0",
+		"oF": 0
+		},
+	"/old.git/objects/88/01455a7f72a182bab87d90dbed9f1d6318ce0e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/88/01455a7f72a182bab87d90dbed9f1d6318ce0e",
+		"oF": 0
+		},
+	"/old.git/objects/88/7e6b68a5a0d08346b42f6b9f7529dedea175fd": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/88/7e6b68a5a0d08346b42f6b9f7529dedea175fd",
+		"oF": 0
+		},
+	"/old.git/objects/8a/287bd4cdc8055292d89b1ad5d6f81525db938c": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/8a/287bd4cdc8055292d89b1ad5d6f81525db938c",
+		"oF": 0
+		},
+	"/old.git/objects/8a/523c2166d3da2c9786b54ced758336a6ddc21b": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/8a/523c2166d3da2c9786b54ced758336a6ddc21b",
+		"oF": 0
+		},
+	"/old.git/objects/92/7b3c1f8065e5bf49cc61598323fd0bc983ab1d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/92/7b3c1f8065e5bf49cc61598323fd0bc983ab1d",
+		"oF": 0
+		},
+	"/old.git/objects/92/fc85d7e783a2310ccaa75ba2fd89db4bae354a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/92/fc85d7e783a2310ccaa75ba2fd89db4bae354a",
+		"oF": 0
+		},
+	"/old.git/objects/94/11fb4ddb041cd850a35680e53f92767648db54": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/94/11fb4ddb041cd850a35680e53f92767648db54",
+		"oF": 0
+		},
+	"/old.git/objects/94/32b9352481665705114f9303dcec8a7b596dd0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/94/32b9352481665705114f9303dcec8a7b596dd0",
+		"oF": 0
+		},
+	"/old.git/objects/94/412a6c301dfb8029fd1545cad4ac3b0c91d580": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/94/412a6c301dfb8029fd1545cad4ac3b0c91d580",
+		"oF": 0
+		},
+	"/old.git/objects/94/8f790facc029073709a8c742f8bbb1edce9584": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/94/8f790facc029073709a8c742f8bbb1edce9584",
+		"oF": 0
+		},
+	"/old.git/objects/94/de3028c7b0bb0747dfb9fa226758f0c3a615be": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/94/de3028c7b0bb0747dfb9fa226758f0c3a615be",
+		"oF": 0
+		},
+	"/old.git/objects/95/2bc83d7ea09873008bda7785648c96f1abf201": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/95/2bc83d7ea09873008bda7785648c96f1abf201",
+		"oF": 0
+		},
+	"/old.git/objects/96/4afb873e1ae38e1c43082ffbe844484bdff566": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/96/4afb873e1ae38e1c43082ffbe844484bdff566",
+		"oF": 0
+		},
+	"/old.git/objects/97/b9ad473fc603add2aec73b156db075acb3f912": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/97/b9ad473fc603add2aec73b156db075acb3f912",
+		"oF": 0
+		},
+	"/old.git/objects/99/fa5fb4829b5e5134e3bfc5d5e895e7994b6435": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/99/fa5fb4829b5e5134e3bfc5d5e895e7994b6435",
+		"oF": 0
+		},
+	"/old.git/objects/9d/c2c40d1226ac27e204a73eea1a7861c8052263": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/9d/c2c40d1226ac27e204a73eea1a7861c8052263",
+		"oF": 0
+		},
+	"/old.git/objects/a0/9b96cff8f8b1863a81a58b14c543b6c8368966": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a0/9b96cff8f8b1863a81a58b14c543b6c8368966",
+		"oF": 0
+		},
+	"/old.git/objects/a3/9e52174edbddfe9df500d2eb9f3b9b32930e54": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a3/9e52174edbddfe9df500d2eb9f3b9b32930e54",
+		"oF": 0
+		},
+	"/old.git/objects/a3/f0790c78d4826b0c6bcb28d463f51737d734ac": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a3/f0790c78d4826b0c6bcb28d463f51737d734ac",
+		"oF": 0
+		},
+	"/old.git/objects/a3/f3b7d448a11ece6bf8669fc60a9e6dbb536436": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a3/f3b7d448a11ece6bf8669fc60a9e6dbb536436",
+		"oF": 0
+		},
+	"/old.git/objects/a5/671c0fa57a075739872ad2f1587f83bfe6fab1": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a5/671c0fa57a075739872ad2f1587f83bfe6fab1",
+		"oF": 0
+		},
+	"/old.git/objects/a5/f435eed6cc4173ab294b69bac83090e1208110": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a5/f435eed6cc4173ab294b69bac83090e1208110",
+		"oF": 0
+		},
+	"/old.git/objects/a6/7634302e25997c86fdf48e17bbe74fc2ebf800": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a6/7634302e25997c86fdf48e17bbe74fc2ebf800",
+		"oF": 0
+		},
+	"/old.git/objects/a7/3ddee77512bb1a168d6277d6f124b0786b5090": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a7/3ddee77512bb1a168d6277d6f124b0786b5090",
+		"oF": 0
+		},
+	"/old.git/objects/a9/4be9fb3e423ad8223262c5b3cf61367dc86e03": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/a9/4be9fb3e423ad8223262c5b3cf61367dc86e03",
+		"oF": 0
+		},
+	"/old.git/objects/ac/23502bebb2a6f7bf929047e86d36bf1ebe17a0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ac/23502bebb2a6f7bf929047e86d36bf1ebe17a0",
+		"oF": 0
+		},
+	"/old.git/objects/ac/e6bd2019030ce8d3d3e73e13135afecf8cf268": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ac/e6bd2019030ce8d3d3e73e13135afecf8cf268",
+		"oF": 0
+		},
+	"/old.git/objects/af/b37006740f09fb12da35f9992cf5ef8018afcf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/af/b37006740f09fb12da35f9992cf5ef8018afcf",
+		"oF": 0
+		},
+	"/old.git/objects/b0/dbf0d3cbbcc9747e85f5a6d700640c7a231634": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/b0/dbf0d3cbbcc9747e85f5a6d700640c7a231634",
+		"oF": 0
+		},
+	"/old.git/objects/b4/5bffebb4ed67146140ce84a2b388efc415de59": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/b4/5bffebb4ed67146140ce84a2b388efc415de59",
+		"oF": 0
+		},
+	"/old.git/objects/b4/e6a20296e0384ca312ad743d1c1fc4d4b516eb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/b4/e6a20296e0384ca312ad743d1c1fc4d4b516eb",
+		"oF": 0
+		},
+	"/old.git/objects/b6/23edac053a9db9191f0bca5343f19cfef9a255": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/b6/23edac053a9db9191f0bca5343f19cfef9a255",
+		"oF": 0
+		},
+	"/old.git/objects/b7/0b78207717d873181340ea3cf84d5dd79447c1": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/b7/0b78207717d873181340ea3cf84d5dd79447c1",
+		"oF": 0
+		},
+	"/old.git/objects/b8/176b12b8aa0858377c6e479a4857838d2ec7b4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/b8/176b12b8aa0858377c6e479a4857838d2ec7b4",
+		"oF": 0
+		},
+	"/old.git/objects/ba/b05b9130283ff5b40b5ebbfeb273a6b7f751fb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ba/b05b9130283ff5b40b5ebbfeb273a6b7f751fb",
+		"oF": 0
+		},
+	"/old.git/objects/ba/e883de6e6956fe4e34c12a4ccb7654912c343a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ba/e883de6e6956fe4e34c12a4ccb7654912c343a",
+		"oF": 0
+		},
+	"/old.git/objects/bb/60097e18a2e4f4681aee4039496e52c9e15eef": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/bb/60097e18a2e4f4681aee4039496e52c9e15eef",
+		"oF": 0
+		},
+	"/old.git/objects/bb/d7bf83632c6b6d568d760ad2a5fbb9d901f541": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/bb/d7bf83632c6b6d568d760ad2a5fbb9d901f541",
+		"oF": 0
+		},
+	"/old.git/objects/bd/3e3b9fc00f064dbc59663c6702e4587e43499b": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/bd/3e3b9fc00f064dbc59663c6702e4587e43499b",
+		"oF": 0
+		},
+	"/old.git/objects/bf/320587d03502091bdef7a934926feb2e5c13f2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/bf/320587d03502091bdef7a934926feb2e5c13f2",
+		"oF": 0
+		},
+	"/old.git/objects/c2/9b4ccdc402b81397b1c4164243590880be0c3e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/c2/9b4ccdc402b81397b1c4164243590880be0c3e",
+		"oF": 0
+		},
+	"/old.git/objects/c7/2c8de1a8a0d88e117990f8c0ba6adc029db579": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/c7/2c8de1a8a0d88e117990f8c0ba6adc029db579",
+		"oF": 0
+		},
+	"/old.git/objects/c8/af4ed0c0b6ae00c7b9185bdf164a49e04e5b61": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/c8/af4ed0c0b6ae00c7b9185bdf164a49e04e5b61",
+		"oF": 0
+		},
+	"/old.git/objects/c9/48ab184a4a7ed353e0f427d2ad8926b371af41": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/c9/48ab184a4a7ed353e0f427d2ad8926b371af41",
+		"oF": 0
+		},
+	"/old.git/objects/ca/5ca596e25494b1e7fe88d1829a8cc4a57a21f5": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ca/5ca596e25494b1e7fe88d1829a8cc4a57a21f5",
+		"oF": 0
+		},
+	"/old.git/objects/cb/30e69af9f1e95e9fc8ce24a759e9be541bbceb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/cb/30e69af9f1e95e9fc8ce24a759e9be541bbceb",
+		"oF": 0
+		},
+	"/old.git/objects/ce/6e894f5c712e3c1a882e1b04093cb8407e699f": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ce/6e894f5c712e3c1a882e1b04093cb8407e699f",
+		"oF": 0
+		},
+	"/old.git/objects/cf/00954dea3e2ba34b603db8eebc55a24f3a8d32": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/cf/00954dea3e2ba34b603db8eebc55a24f3a8d32",
+		"oF": 0
+		},
+	"/old.git/objects/d2/3860b896a2862615471c9a91c74525a97ce893": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d2/3860b896a2862615471c9a91c74525a97ce893",
+		"oF": 0
+		},
+	"/old.git/objects/d3/49a4b558d4917830464ae8a8f91f752e2cb338": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d3/49a4b558d4917830464ae8a8f91f752e2cb338",
+		"oF": 0
+		},
+	"/old.git/objects/d4/485207bb1a13f7c7116f4b1e730a150e568bf3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d4/485207bb1a13f7c7116f4b1e730a150e568bf3",
+		"oF": 0
+		},
+	"/old.git/objects/d6/7f9584b9e1e41476a5ef9afd8fa8c5bf37ff0a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d6/7f9584b9e1e41476a5ef9afd8fa8c5bf37ff0a",
+		"oF": 0
+		},
+	"/old.git/objects/d7/57e06cf59f2f20d7d4f4fabc9b20cd2205150e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d7/57e06cf59f2f20d7d4f4fabc9b20cd2205150e",
+		"oF": 0
+		},
+	"/old.git/objects/d7/c3a628b53540cfde028ff6b69893037065b283": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d7/c3a628b53540cfde028ff6b69893037065b283",
+		"oF": 0
+		},
+	"/old.git/objects/d8/0132a13b08a67b0607ec1946058445e5c95bb4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/d8/0132a13b08a67b0607ec1946058445e5c95bb4",
+		"oF": 0
+		},
+	"/old.git/objects/dd/4ec18e8dc2a710799c2dae63dd71fe1dd0a53f": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/dd/4ec18e8dc2a710799c2dae63dd71fe1dd0a53f",
+		"oF": 0
+		},
+	"/old.git/objects/de/16c232db55270dd047c1cdf53d86caf65a9253": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/de/16c232db55270dd047c1cdf53d86caf65a9253",
+		"oF": 0
+		},
+	"/old.git/objects/de/8c4899bf6d131f51d1a8ca891aefddf60ce08f": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/de/8c4899bf6d131f51d1a8ca891aefddf60ce08f",
+		"oF": 0
+		},
+	"/old.git/objects/e1/17c06e14712990dfe22337d283dce3596d34b7": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/e1/17c06e14712990dfe22337d283dce3596d34b7",
+		"oF": 0
+		},
+	"/old.git/objects/e1/64aa540754cfdbb6579226446fb98c959834f2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/e1/64aa540754cfdbb6579226446fb98c959834f2",
+		"oF": 0
+		},
+	"/old.git/objects/e1/7bc8c58884ef095e0e0f1eb28db19719ec5448": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/e1/7bc8c58884ef095e0e0f1eb28db19719ec5448",
+		"oF": 0
+		},
+	"/old.git/objects/e3/11ed086fb456e9c2bcab4436e4c0a406b55669": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/e3/11ed086fb456e9c2bcab4436e4c0a406b55669",
+		"oF": 0
+		},
+	"/old.git/objects/e6/4ef42cb17d4330b9107913f3b4bf9b297111ac": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/e6/4ef42cb17d4330b9107913f3b4bf9b297111ac",
+		"oF": 0
+		},
+	"/old.git/objects/e8/7d8538bb67a443cc0cd0a1e556349528686d36": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/e8/7d8538bb67a443cc0cd0a1e556349528686d36",
+		"oF": 0
+		},
+	"/old.git/objects/ea/12db54734d822613bb30ee8d6976af9da75f7e": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ea/12db54734d822613bb30ee8d6976af9da75f7e",
+		"oF": 0
+		},
+	"/old.git/objects/ea/91e59cb17cad832366be2fc1edff6bcf4afcd9": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ea/91e59cb17cad832366be2fc1edff6bcf4afcd9",
+		"oF": 0
+		},
+	"/old.git/objects/ea/eef85415e2a6fa97942b837bb81300a1b97d91": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ea/eef85415e2a6fa97942b837bb81300a1b97d91",
+		"oF": 0
+		},
+	"/old.git/objects/ec/d03b8898dc3969d9827b41b8bd3373b032f26a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ec/d03b8898dc3969d9827b41b8bd3373b032f26a",
+		"oF": 0
+		},
+	"/old.git/objects/ee/e756afc1f8f55d6534d7298805933381d65808": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/ee/e756afc1f8f55d6534d7298805933381d65808",
+		"oF": 0
+		},
+	"/old.git/objects/f0/c643d55a22dac6ffdbd86fe6475e565915e1bb": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f0/c643d55a22dac6ffdbd86fe6475e565915e1bb",
+		"oF": 0
+		},
+	"/old.git/objects/f2/a4fd8d021d607abf860d47fba220d30f40d090": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f2/a4fd8d021d607abf860d47fba220d30f40d090",
+		"oF": 0
+		},
+	"/old.git/objects/f5/ca0863e5eee95db3c2909988bcc00139d6e7f8": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f5/ca0863e5eee95db3c2909988bcc00139d6e7f8",
+		"oF": 0
+		},
+	"/old.git/objects/f6/09055aca4c4f7d003cd0b0b7eff807a849b1d3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f6/09055aca4c4f7d003cd0b0b7eff807a849b1d3",
+		"oF": 0
+		},
+	"/old.git/objects/f7/71e41c50c35a0e5180831c3156815d623e39c0": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f7/71e41c50c35a0e5180831c3156815d623e39c0",
+		"oF": 0
+		},
+	"/old.git/objects/f7/c88f3bb6e43afb297d818276e392e83a57a2d4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f7/c88f3bb6e43afb297d818276e392e83a57a2d4",
+		"oF": 0
+		},
+	"/old.git/objects/f8/c4e0ba667b9c5e2c60c01eaf7d38cad7382dec": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f8/c4e0ba667b9c5e2c60c01eaf7d38cad7382dec",
+		"oF": 0
+		},
+	"/old.git/objects/f8/e42a20d8618c925f5dce60f9fd4d22a141a6b6": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f8/e42a20d8618c925f5dce60f9fd4d22a141a6b6",
+		"oF": 0
+		},
+	"/old.git/objects/f9/328077fbcc1642fe1c9ccb67c76dc0d8358c21": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/f9/328077fbcc1642fe1c9ccb67c76dc0d8358c21",
+		"oF": 0
+		},
+	"/old.git/objects/fa/24dcbdcebfb7feabf5cc6113dcbd3a8dc8d7b8": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/fa/24dcbdcebfb7feabf5cc6113dcbd3a8dc8d7b8",
+		"oF": 0
+		},
+	"/old.git/objects/fb/4f2a54cff8dec1f3318b96782a3e904352c07d": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/fb/4f2a54cff8dec1f3318b96782a3e904352c07d",
+		"oF": 0
+		},
+	"/old.git/objects/fb/bffc53407258192a266e7f682f7deab5833c24": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/fb/bffc53407258192a266e7f682f7deab5833c24",
+		"oF": 0
+		},
+	"/old.git/objects/fb/d0396cda0c87fd51fffbbb195accc008f00391": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/fb/d0396cda0c87fd51fffbbb195accc008f00391",
+		"oF": 0
+		},
+	"/old.git/objects/fd/34c40606783833f3d91f5f3ec431ca280b8e6b": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/fd/34c40606783833f3d91f5f3ec431ca280b8e6b",
+		"oF": 0
+		},
+	"/old.git/objects/fd/fab4aa2fafedd1e43ee6e2f4ab8e33137ba969": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/objects/fd/fab4aa2fafedd1e43ee6e2f4ab8e33137ba969",
+		"oF": 0
+		},
+	"/old.git/ORIG_HEAD": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/ORIG_HEAD",
+		"oF": 0
+		},
+	"/old.git/refs/heads/Ash": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/refs/heads/Ash",
+		"oF": 0
+		},
+	"/old.git/refs/heads/master": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/refs/heads/master",
+		"oF": 0
+		},
+	"/old.git/refs/remotes/origin/Ash": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/refs/remotes/origin/Ash",
+		"oF": 0
+		},
+	"/old.git/refs/remotes/origin/master": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/refs/remotes/origin/master",
+		"oF": 0
+		},
+	"/old.git/sourcetreeconfig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/old.git/sourcetreeconfig",
+		"oF": 0
+		},
+	"/page-templates/accommodation.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/accommodation.php",
+		"oF": 0
+		},
+	"/page-templates/accommodationTESTER.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/accommodationTESTER.php",
+		"oF": 0
+		},
+	"/page-templates/enquire.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/enquire.php",
+		"oF": 0
+		},
+	"/page-templates/enquireOLD.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/enquireOLD.php",
+		"oF": 0
+		},
+	"/page-templates/find.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/find.php",
+		"oF": 0
+		},
+	"/page-templates/findWITHMAP.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/findWITHMAP.php",
+		"oF": 0
+		},
+	"/page-templates/flex-blog-sidebar.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/flex-blog-sidebar.php",
+		"oF": 0
+		},
+	"/page-templates/flex-leaders.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/flex-leaders.php",
+		"oF": 0
+		},
+	"/page-templates/flex-sub-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/flex-sub-menu.php",
+		"oF": 0
+		},
+	"/page-templates/home.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/home.php",
+		"oF": 0
+		},
+	"/page-templates/news.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/news.php",
+		"oF": 0
+		},
+	"/page-templates/okavango-sub.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/okavango-sub.php",
+		"oF": 0
+		},
+	"/page-templates/okavango.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/okavango.php",
+		"oF": 0
+		},
+	"/page-templates/standard-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/standard-page.php",
+		"oF": 0
+		},
+	"/page-templates/terms-privacy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page-templates/terms-privacy.php",
+		"oF": 0
+		},
+	"/page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/page.php",
+		"oF": 0
+		},
+	"/phpcs.xml.dist": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/phpcs.xml.dist",
+		"oF": 0
+		},
+	"/prepros-6.config": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/prepros-6.config",
+		"oF": 0
+		},
+	"/prepros.config": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/prepros.config",
+		"oF": 0
+		},
+	"/screenshot.png": {
+		"ft": 32768,
+		"iS": 12315,
+		"oA": 0,
+		"oAP": "/screenshot.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/search.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/search.php",
+		"oF": 0
+		},
+	"/single-camps.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/single-camps.php",
+		"oF": 0
+		},
+	"/single-campsFORMT.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/single-campsFORMT.php",
+		"oF": 0
+		},
+	"/single-campsMAPTEST.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/single-campsMAPTEST.php",
+		"oF": 0
+		},
+	"/single-itineraries.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/single-itineraries.php",
+		"oF": 0
+		},
+	"/single-itinerariesORIGINAL.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/single-itinerariesORIGINAL.php",
+		"oF": 0
+		},
+	"/single.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/single.php",
+		"oF": 0
+		},
+	"/style-dist.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style-dist-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/taxonomy-company.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/taxonomy-company.php",
+		"oF": 0
+		},
+	"/taxonomy-destinations.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/taxonomy-destinations.php",
+		"oF": 0
+		},
+	"/taxonomy-focus.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/taxonomy-focus.php",
+		"oF": 0
+		},
+	"/taxonomy-type-old.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/taxonomy-type-old.php",
+		"oF": 0
+		},
+	"/taxonomy-type.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/taxonomy-type.php",
+		"oF": 0
+		},
+	"/template-parts/accom-map-filter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/accom-map-filter.php",
+		"oF": 0
+		},
+	"/template-parts/arrow-large.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/arrow-large.php",
+		"oF": 0
+		},
+	"/template-parts/button-icon.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/button-icon.php",
+		"oF": 0
+		},
+	"/template-parts/carousel-hero.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/carousel-hero.php",
+		"oF": 0
+		},
+	"/template-parts/filter-hero-find.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/filter-hero-find.php",
+		"oF": 0
+		},
+	"/template-parts/filter-hero-type.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/filter-hero-type.php",
+		"oF": 0
+		},
+	"/template-parts/filter-map-accom.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/filter-map-accom.php",
+		"oF": 0
+		},
+	"/template-parts/filter-map-accomORIGINAL.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/filter-map-accomORIGINAL.php",
+		"oF": 0
+		},
+	"/template-parts/filtered-result.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/filtered-result.php",
+		"oF": 0
+		},
+	"/template-parts/floating-heading.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/floating-heading.php",
+		"oF": 0
+		},
+	"/template-parts/fullwidth-info-block.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/fullwidth-info-block.php",
+		"oF": 0
+		},
+	"/template-parts/home-hero.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/home-hero.php",
+		"oF": 0
+		},
+	"/template-parts/itinerary-map.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/itinerary-map.php",
+		"oF": 0
+		},
+	"/template-parts/labels-overlayv1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/labels-overlayv1.php",
+		"oF": 0
+		},
+	"/template-parts/left-hero.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/left-hero.php",
+		"oF": 0
+		},
+	"/template-parts/map-component.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/map-component.php",
+		"oF": 0
+		},
+	"/template-parts/map-componentORIGINAL.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/map-componentORIGINAL.php",
+		"oF": 0
+		},
+	"/template-parts/map-features.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/map-features.php",
+		"oF": 0
+		},
+	"/template-parts/map-featuresDEAD.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/map-featuresDEAD.php",
+		"oF": 0
+		},
+	"/template-parts/map-featuresORIGINAL.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/map-featuresORIGINAL.php",
+		"oF": 0
+		},
+	"/template-parts/map.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/map.php",
+		"oF": 0
+		},
+	"/template-parts/overlay-filter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/overlay-filter.php",
+		"oF": 0
+		},
+	"/template-parts/panel-icon.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/panel-icon.php",
+		"oF": 0
+		},
+	"/template-parts/standard-hero.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/standard-hero.php",
+		"oF": 0
+		},
+	"/template-parts/type-filter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/type-filter.php",
+		"oF": 0
+		},
+	"/template-parts/water-overlayv1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/water-overlayv1.php",
+		"oF": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	"/inc/js/core.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "/inc/js/jquery.magnific-popup.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "/inc/js/owl.carousel.min.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "/inc/js/mixitup.js",
+			"position": 2,
+			"type": 0
+			}
+		]
+	},
+"projectAttributes": {
+	"creationDate": 612347336.96627402,
+	"displayValue": "oke",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "brackets_brown",
+	"iconImageWasSetByUser": 0
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"destructuring": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"dotall-regex": {
+			"active": 0
+			},
+		"duplicate-keys": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"for-of": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"instanceof": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"regexp-constructors": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
+			"active": 0
+			},
+		"reserved-words": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"template-literals": {
+			"active": 0
+			},
+		"throw-expressions": {
+			"active": 0
+			},
+		"typeof-symbol": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
+			}
+		},
+	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"environmentVariablesString": "NODE_ENV:::production",
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false, 'enforceForClassMembers': true}"
+			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always', 'ignoreDestructuring': false, 'ignoreImports': false}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never', {'enforceForClassMembers': true}"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'considerPropertyDescriptor': false, 'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always', {'generators': 'always'}"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true, 'ignoreDestructuring': false}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-between-class-members": {
+			"active": 0,
+			"optionString": "'always', {exceptAfterSingleLine: false}"
+			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': true}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false, 'enforceForSequenceExpressions': false, 'enforceForNewInMemberExpressions': false}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 1,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": "{'capIsConstructor': true}"
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': true}"
+			},
+		"no-self-compare": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": "{'allowAtRootLevel': false}"
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": "{allowIndentationTabs: false}"
+			},
+		"no-template-curly-in-string": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'allowAfterThisConstructor': false, 'enforceInMethodNames': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 1,
+			"optionString": "{'enforceForOrderingRelations': false}"
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 0,
+			"optionString": "{'enforceForClassMembers': false}"
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": "{'allowAsStatement': false}"
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true, 'consistent': true}, 'ObjectPattern': {'multiline': true, 'consistent': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-yield": {
+			"active": 1,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false, 'minKeys': 2}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": "{'enforceForSwitchCase': true, 'enforceForIndexOf': false}"
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http://localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 3,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "../css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
+		"enableJavascript": 0,
+		"mathStyle": 0,
+		"outputStyle": 0,
+		"rewriteURLStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "../css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"compilerType": 0,
+		"createSourceMap": 0,
+		"decimalPrecision": 10,
+		"emitCharset": 1,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "../css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 52780316221407
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 2,
+		"removeComments": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
+	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
+	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"braces": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"collapse_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"computed_props": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"hoist_props": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent_level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max_line_len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote_keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"shebang": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"uglifyMangleNames": 1,
+	"uglifyReservedNamesString": "$,exports,require",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}

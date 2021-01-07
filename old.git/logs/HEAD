@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 3fead89513b1e8965afc89aaf7fc8701804126ce Angella <> 1562326975 +0100	commit (initial): DEV - Initial commit
+3fead89513b1e8965afc89aaf7fc8701804126ce 31d2ddecab28208764f5caddceb4c3cbcfce3023 Angella <> 1562327169 +0100	revert: Revert "DEV - Initial commit"
+31d2ddecab28208764f5caddceb4c3cbcfce3023 8533354611067087c827e4a2e6d84e580adca031 Angella <> 1562327206 +0100	reset: moving to 8533354611067087c827e4a2e6d84e580adca031
+8533354611067087c827e4a2e6d84e580adca031 353adfb4aaf4e1cecbff2adb6e0fe2d463b898fb Angella <> 1562327319 +0100	commit: DEV - Initial Structure
+353adfb4aaf4e1cecbff2adb6e0fe2d463b898fb bab05b9130283ff5b40b5ebbfeb273a6b7f751fb Ash - SIlverless <ash@silverless.co.uk> 1565696839 +0100	commit: Initial Commit
+bab05b9130283ff5b40b5ebbfeb273a6b7f751fb bab05b9130283ff5b40b5ebbfeb273a6b7f751fb Ash - SIlverless <ash@silverless.co.uk> 1565696888 +0100	checkout: moving from master to Ash
+bab05b9130283ff5b40b5ebbfeb273a6b7f751fb c72c8de1a8a0d88e117990f8c0ba6adc029db579 Ash - SIlverless <ash@silverless.co.uk> 1565943434 +0100	commit: DEV - initial layout (header and hero)
+c72c8de1a8a0d88e117990f8c0ba6adc029db579 bab05b9130283ff5b40b5ebbfeb273a6b7f751fb Ash - SIlverless <ash@silverless.co.uk> 1571666626 +0100	checkout: moving from Ash to master
+bab05b9130283ff5b40b5ebbfeb273a6b7f751fb c72c8de1a8a0d88e117990f8c0ba6adc029db579 Ash - SIlverless <ash@silverless.co.uk> 1571666683 +0100	checkout: moving from master to Ash
+c72c8de1a8a0d88e117990f8c0ba6adc029db579 bab05b9130283ff5b40b5ebbfeb273a6b7f751fb Ash - SIlverless <ash@silverless.co.uk> 1571666699 +0100	checkout: moving from Ash to master
+bab05b9130283ff5b40b5ebbfeb273a6b7f751fb c72c8de1a8a0d88e117990f8c0ba6adc029db579 Ash - SIlverless <ash@silverless.co.uk> 1571666707 +0100	merge Ash: Fast-forward
+c72c8de1a8a0d88e117990f8c0ba6adc029db579 a39e52174edbddfe9df500d2eb9f3b9b32930e54 Ash - SIlverless <ash@silverless.co.uk> 1571914190 +0100	commit: DEV - home page complete
+a39e52174edbddfe9df500d2eb9f3b9b32930e54 7f8fd218d41c14884f64678acf483b056393439a Ash - SIlverless <ash@silverless.co.uk> 1572627787 +0000	commit: DEV - major build phase one
+7f8fd218d41c14884f64678acf483b056393439a 1f7651ba51114cb5f83a08a20600f7aeaf0982fd Ash - SIlverless <ash@silverless.co.uk> 1573030688 +0000	commit: DEV - home page details

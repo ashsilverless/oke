@@ -1,0 +1,46 @@
+/*! == VARIABLES == */
+
+$brand-primary: hsl(73, 11%, 51%); //Mid Green
+$brand-primary-light: hsl(73, 11%, 75%); // Light Green
+$brand-primary-dark: hsl(73, 11%, 30%); //Dark Green
+$brand-secondary: hsl(227, 31%, 18%); //Dark Blue
+$brand-tertiary: hsl(37, 100%, 50%);
+$brand-light-grey: hsl(0, 0%, 80%);
+$brand-mid-grey: hsl(0, 0%, 50%);
+$brand-dark-grey: hsl(0, 0%, 15%);
+$body-bg: hsl(60, 9%, 89%);
+
+
+$brand-font: 'mauritius', serif;
+$body-font: 'zeitung-micro', sans-serif;
+$supporting-font: 'zeitung-micro', sans-serif; 
+
+$fastEffect: all .5s ease;
+$slowEffect: all 1s ease;
+
+$container-width: 1300px;
+$col-count: 24;
+$grid-gap: 0;
+
+$breakpoints: (
+	xl: 1200px,
+	lg: 992px,
+	md: 768px,
+	sm: 576px,
+	xs: 350px
+);
+
+$brandBorderWidth:1px;
+$brandBorderColor:$brand-primary;
+$brandBorderStyle: solid;
+
+$contentPadding: 2em 3em;
+
+$form-check-input-gutter:               1.25rem !default;
+$form-check-input-margin-y:             .3rem !default;
+$form-check-input-margin-x:             .25rem !default;
+
+$form-check-inline-margin-x:            .75rem !default;
+$form-check-inline-input-margin-x:      .3125rem !default;
+$gray-600: #6c757d !default;
+$text-muted:                  $gray-600 !default;

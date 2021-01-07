@@ -1,0 +1,146 @@
+body {
+  content: "";
+}
+
+#adminmenu,
+#adminmenu .wp-submenu,
+#adminmenuback,
+#adminmenuwrap,
+#wpadminbar {
+  background-color: #362b3a;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu,
+#adminmenu .wp-has-current-submenu .wp-submenu.sub-open,
+#adminmenu .wp-has-current-submenu.opensub .wp-submenu,
+#adminmenu a.wp-has-current-submenu:focus + .wp-submenu,
+.no-js li.wp-has-current-submenu:hover .wp-submenu {
+  background-color: #302036;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head,
+#adminmenu .wp-menu-arrow,
+#adminmenu .wp-menu-arrow div,
+#adminmenu li.current a.menu-top,
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu,
+.folded #adminmenu li.current.menu-top,
+.folded #adminmenu li.wp-has-current-submenu {
+  background: #312036;
+  color: #e57732;
+}
+
+ul#adminmenu a.wp-has-current-submenu:after,
+ul#adminmenu > li.current > a.current:after {
+  border-right-color: #cdc7c0;
+}
+
+#adminmenu .wp-submenu a:focus,
+#adminmenu .wp-submenu a:hover,
+#adminmenu a:hover,
+#adminmenu li.menu-top > a:focus {
+  color: #e4652f;
+}
+
+.taxonomy-where,
+.taxonomy-what,
+.taxonomy-when {
+  .form-field.term-description-wrap {
+    display: none;
+  }
+}
+
+#wpcontent,
+#wpfooter,
+#wpwrap {
+  background: #cdc7c0;
+}
+
+#toplevel_page {
+  &_testimonials .dashicons-admin-generic:before {
+    font-family: dashicons;
+    content: "\f101";
+  }
+
+  &_call-to-action .dashicons-admin-generic:before {
+    font-family: dashicons;
+    content: "\f488";
+  }
+}
+
+.post-type-page {
+  .acf-postbox {
+    background: #66546d2b;
+    border-color: #a4a0a600;
+  }
+
+  #poststuff h2 {
+    font-size: 14px;
+    color: #726a75;
+    border: none;
+  }
+
+  .acf-fields > .acf-field {
+    border-color: hsl(30, 9%, 71%) !important;
+  }
+
+  .inside.acf-fields > .acf-field > .acf-label {
+    color: hsl(0, 0%, 100%);
+    text-transform: uppercase;
+    font-size: 24px;
+  }
+
+  .acf-flexible-content {
+    .layout {
+      background: hsl(32, 12%, 78%);
+      border: none;
+      margin-bottom: 50px;
+
+      .acf-fc-layout-handle {
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: 900;
+      }
+
+      .acf-fc-layout-order {
+        background: hsl(15, 73%, 46%);
+        font-size: 12px;
+        color: hsl(0, 0%, 100%);
+      }
+    }
+
+    .no-value-message {
+      color: hsl(0, 0%, 100%);
+    }
+  }
+}
+
+#poststuff .acf-label label {
+  background: hsla(284, 15%, 20%, 0.7);
+  color: white;
+  padding: 5px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.taxonomy-company .form-field.term-description-wrap,
+.taxonomy-focus .form-field.term-description-wrap,
+.taxonomy-destinations .form-field.term-description-wrap {
+  display: none;
+}
+
+#side-sortables {
+  .postbox.acf-postbox {
+    background: #928c94;
+    border-color: #837888;
+  }
+  .acf-label label {
+    background: transparent;
+    font-weight: 500;
+    font-size: 16px;
+    color: #362b3b;
+    letter-spacing: 0.5px;
+  }
+}
+.wp-admin img.alignnone {
+  width: 100% !important;
+}
