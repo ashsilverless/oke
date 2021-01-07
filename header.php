@@ -121,7 +121,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="search-trigger">*
+                    <div class="search-trigger">
                         <i class="fas fa-search"></i>
                     </div>
                 </div>

@@ -4649,7 +4649,7 @@ jQuery(document).ready(function($) {
 	$(document).ready(function() {
 		(function() {
 			var showChar = 500;
-			var ellipsestext = '...';
+			var ellipsestext = '';
 
 			$('.truncate').each(function() {
 				var content = $(this).html();
