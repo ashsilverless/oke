@@ -43,7 +43,7 @@ add_action('wp_before_admin_bar_render', 'oke_manage_admin_bar');
 //ADDED MICROTIME VERSION NUMBER FOR DEV --- REMOVE FOR LIVE
 function oke_scripts() {
 	wp_enqueue_style( 'oke-style', get_template_directory_uri() . '/style.css', array(), filemtime(get_template_directory() . '/style.css'), false);
-	wp_enqueue_script( 'oke-core-js', get_template_directory_uri() . '/inc/js/compiled.js', array('jquery'), 1.1, true);
+	wp_enqueue_script( 'oke-core-js', get_template_directory_uri() . '/inc/js/compiled-new.js', array('jquery'), 1.1, true);
 }
 
 function oke_custom_menu() {
